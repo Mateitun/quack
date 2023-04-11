@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Inter);
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Inter';
+}
+  
+.heather {
+    position: absolute;
+    height: 50px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background: #538f2d;
+
+}
+
+.title {
+    position: absolute;
+    left: 30px;
+    right: 984px;
+    top: -190px;
+    bottom: 642px;
+   font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+
+.logo{
+    position: absolute;
+   left: 25%;
+    top: 22%;
+    width: 30%;
+    height: auto;
+
+}
+
+.login{
+    position: absolute;
+    left: 60%;
+    top: 30%;
+    width: 50%;
+
+}
+
+.pill {
+    border-radius: 25px;
+  
+    -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+          user-select: none;
+  }
+  
+  #loginbutton {
+    position: absolute;
+  width: 310px;
+  height: 51px;
+  border: none;
+  background: #88C20D;
+  color: #FFFFFF;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  }
+  
+  .loginimput {
+    width: auto;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    
+  }
+
+  .text {
+    top: 60%;
+
+  }
